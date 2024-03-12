@@ -1,4 +1,5 @@
 # New timer
+# Hello!
 
 import time
 import os
