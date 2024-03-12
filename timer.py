@@ -27,3 +27,4 @@ timer()
 # print("Hello Branch!")
 print ("welcome be new conflict")
 ## another confict heehh
+# Let's crash the code with a conflict
